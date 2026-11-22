@@ -8,5 +8,5 @@ tickets, o agente e os modelos usados.
 |---|---|
 | 01 | [Padrão de manifests](desafio-03/ticket-01-padrao-de-manifests/) |
 | 02 | [Triagem no cluster](desafio-03/ticket-02-triagem-no-cluster/) |
-| 03 | [Inventário de VM](desafio-03/ticket-03-inventario-de-vm/) |
-| 04 | [Dashboard do cluster](desafio-03/ticket-04-dashboard-do-cluster/) |
+| 03 | [Inventário de VM](desafio-03/ticket-03-inventario-de-vm/) Claude Opus 4.8 (brainstorm e spec) · Claude Sonnet 5.5 (implementação)|
+| 04 | [Dashboard do cluster](desafio-03/ticket-04-dashboard-do-cluster/) Claude Opus 4.8 (brainstorm e spec) · Claude Sonnet 5.5 (implementação)|
